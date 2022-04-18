@@ -1,0 +1,19 @@
+<svg width="66" height="66" xmlns="http://www.w3.org/2000/svg">
+
+ <title/>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#04792a" id="svg_1" d="m1,34a32,32 0 1 0 32,-32a32,32 0 0 0 -32,32z"/>
+  <ellipse stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_2" ry="2.87" rx="6.88" cy="24.87" cx="23.03" class="cls-1"/>
+  <ellipse stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_3" ry="2.91" rx="6.95" cy="37.82" cx="43.05" class="cls-1"/>
+  <line stroke-linecap="round" stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_4" y2="44.96" y1="24.87" x2="16.16" x1="16.16" class="cls-2"/>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_5" d="m29.91,24.87l0,20.13c0,1.59 -3.08,2.87 -6.88,2.87s-6.87,-1.32 -6.87,-2.87" class="cls-1"/>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_6" d="m29.91,38.3c0,1.59 -3.11,2.87 -7,2.87s-7,-1.29 -7,-2.87" class="cls-1"/>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_7" d="m50,37.82l0,7.09c0,1.61 -3.11,2.91 -7,2.91s-7,-1.3 -7,-2.91l0,-7.09" class="cls-1"/>
+  <path stroke-width="2px" stroke-miterlimit="10" stroke="#ffffff" fill="none" id="svg_8" d="m29.91,31.37c0,1.59 -3.11,2.87 -7,2.87s-6.91,-1.24 -6.91,-2.87" class="cls-1"/>
+ </g>
+</svg>

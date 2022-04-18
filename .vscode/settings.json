@@ -1,0 +1,8 @@
+{
+  "prettier.endOfLine": "auto",
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.tabWidth": 4,
+  "prettier.useTabs": true,
+  "prettier.vueIndentScriptAndStyle": true
+}
